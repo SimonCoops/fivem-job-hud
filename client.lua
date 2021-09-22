@@ -1,7 +1,7 @@
 local config = {
-    x = 0.172,
-    y = 0.8775,
-    message = "Discord: ~b~discord.gg/RquDVTfDwu~w~ | ~g~Job: ~y~%s"
+    x = 0.195,
+    y = 0.8199,
+    message = "~g~Job: ~y~%s"
 }
 
 local player = "unknown"
